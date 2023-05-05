@@ -1,0 +1,8 @@
+/nerf_example_data.zip
+/data/
+/logs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
